@@ -1,0 +1,31 @@
+Ref No.,Year,Category,Problem Addressed,Method/Data used,Main Finding
+[1],2009,Warning Fatigue,Why users ignore warnings,Conceptual/economic analysis,Ignoring warnings can be locally rational (cost > benefit)
+[2],2013,Warning Fatigue,Real-world effectiveness of SSL warnings,Field telemetry (Chrome/Firefox logs),High click-through rates on SSL warnings in the field
+[3],2016,Warning Fatigue,Visual attention decline to warnings,Eye tracking,Visual attention to warnings falls after a few repeated exposures
+[4],2011,Warning Fatigue,Mismatch between warning design and user mental models,Mental-model interviews (25 users),Users' private models of risk do not match warning design assumptions
+[5],2014,Warning Fatigue,Why warning volume undermines effectiveness,Conceptual/argument paper,Sheer volume of warnings, not wording, erodes their value
+[6],2015,Warning Fatigue,Neural habituation to repeated warnings,fMRI (25 participants),Neural response falls after a few repetitions; polymorphic warnings slow the decline
+[7],2018,Warning Fatigue,Does lab habituation generalise to the field,Longitudinal fMRI + eye tracking + field experiment,Habituation observed consistently across all three measures
+[8],2014,Warning Fatigue,Link between risk perception and habituation,EEG / risk-perception measures,Users with lower perceived risk habituate faster
+[9],2011,Warning Fatigue,Can incentives override habituation,Field incentive experiment,Financial incentive overrides a habituated warning-ignoring pattern
+[10],2013,Warning Design,Can UI mechanics slow fast click-through,Lab UI experiment (~100 participants),Delayed button activation reduces fast click-through
+[11],2015,Warning Design,Does SSL warning redesign improve response,Lab comprehension study + field telemetry,Opinionated redesign improves comprehension and lowers click-through
+[12],2013,Warning Design,Does warning wording affect perceived seriousness,Lab wording experiment,Warnings worded like a person increase perceived seriousness
+[13],2013,Warning Design,Readability of deployed warning texts,Content analysis of warning texts,Most warning texts fail readability/comprehension standards
+[14],2019,Warning Design,Does inline placement improve detection,Lab + online study (simulated phishing),Contextual placement improves detection over banner warnings
+[15],2018,Warning Design,Why users dismiss warnings in the field,Experience sampling (field study),Field reasons for dismissal differ from lab-stated reasons
+[16],2006,Warning Design,Theoretical model of warning processing,Theoretical framework (book chapter),C-HIP model: a warning must be noticed, comprehended and believed before behaviour changes
+[17],2015,Warning Design,Design space for notices and warnings,Conceptual design-space analysis,Proposes timing, modality and control as design dimensions
+[18],2009,False Alarm,Why SSL warning click-through is high,Field + lab study,Most SSL warnings are false positives from misconfiguration, not attacks
+[19],2008,False Alarm,Active vs. passive phishing warnings,Lab comparison study,Active warnings heeded far more than passive indicators
+[20],2010,False Alarm,How users mentally model threats,Semi-structured interviews (33 users),Users apply warnings selectively per a private folk model
+[21],2015,False Alarm,Does experience improve security beliefs,Survey/interview study,Experienced users sometimes hold riskier beliefs than novices
+[22],2014,False Alarm,Personality links to warning susceptibility,Personality/decision-trait study,Susceptibility linked to personality and decision-making traits
+[23],2010,False Alarm,Does embedded training improve detection,Embedded training study,Training materially improves later phishing detection
+[24],2010,False Alarm,Demographic predictors of phishing susceptibility,Demographic analysis,Age and other demographics predict susceptibility even after training
+[25],2016,False Alarm,Where do users get security knowledge,Census-representative survey (1,580 users),Most security knowledge comes from informal sources, not warnings
+[26],2020,False Alarm,Quality of online security advice,Quality audit of advice sources,Much informal advice circulating is inconsistent or low quality
+[27],2012,False Alarm,Do warnings fit real user workflows,Argument/position paper,Warnings are designed as the user's only info source but compete with an advice ecosystem
+[28],2014,False Alarm,How framing affects phishing avoidance,Protection Motivation Theory framing study,Framing changes compliance independent of warning frequency
+[29],2013,False Alarm,Does fear appeal improve password compliance,Field experiment (fear-based messaging),Fear-based framing changed password-security compliance
+[30],2017,False Alarm,Can lightweight tooltips improve detection,TORPEDO tooltip-system evaluation,Tooltip warning improved detection without disrupting workflow

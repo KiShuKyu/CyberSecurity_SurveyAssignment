@@ -1,0 +1,363 @@
+TY  - CONF
+AU  - Herley, Cormac
+TI  - So long, and no thanks for the externalities: the rational rejection of security advice by users
+T2  - Proceedings of the New Security Paradigms Workshop (NSPW)
+PY  - 2009
+SP  - 133
+EP  - 144
+ER  -
+
+TY  - CONF
+AU  - Akhawe, Devdatta
+AU  - Felt, Adrienne Porter
+TI  - Alice in Warningland: a large-scale field study of browser security warning effectiveness
+T2  - Proceedings of the 22nd USENIX Security Symposium
+PY  - 2013
+SP  - 257
+EP  - 272
+ER  -
+
+TY  - JOUR
+AU  - Anderson, Bonnie Brinton
+AU  - Jenkins, Jeffrey L.
+AU  - Vance, Anthony
+AU  - Kirwan, C. Brock
+AU  - Eargle, David
+TI  - Your memory is working against you: how eye tracking and memory explain habituation to security warnings
+JO  - Decision Support Systems
+VL  - 92
+SP  - 3
+EP  - 13
+PY  - 2016
+ER  -
+
+TY  - JOUR
+AU  - Bravo-Lillo, Cristian
+AU  - Cranor, Lorrie Faith
+AU  - Downs, Julie
+AU  - Komanduri, Saranga
+TI  - Bridging the gap in computer security warnings: a mental model approach
+JO  - IEEE Security & Privacy
+VL  - 9
+IS  - 2
+SP  - 18
+EP  - 26
+PY  - 2011
+ER  -
+
+TY  - JOUR
+AU  - Herley, Cormac
+TI  - More is not the answer
+JO  - IEEE Security & Privacy
+VL  - 12
+IS  - 1
+SP  - 14
+EP  - 19
+PY  - 2014
+ER  -
+
+TY  - CONF
+AU  - Anderson, Bonnie Brinton
+AU  - Kirwan, C. Brock
+AU  - Jenkins, Jeffrey L.
+AU  - Eargle, David
+AU  - Howard, Seth
+AU  - Vance, Anthony
+TI  - How polymorphic warnings reduce habituation in the brain: insights from an fMRI study
+T2  - Proceedings of the ACM CHI Conference on Human Factors in Computing Systems
+PY  - 2015
+SP  - 2883
+EP  - 2892
+ER  -
+
+TY  - JOUR
+AU  - Anderson, Bonnie Brinton
+AU  - Vance, Anthony
+AU  - Kirwan, C. Brock
+AU  - Jenkins, Jeffrey L.
+AU  - Eargle, David
+TI  - Tuning out security warnings: a longitudinal examination of habituation through fMRI, eye tracking and field experiments
+JO  - MIS Quarterly
+VL  - 42
+IS  - 2
+SP  - 355
+EP  - 380
+PY  - 2018
+ER  -
+
+TY  - JOUR
+AU  - Vance, Anthony
+AU  - Anderson, Bonnie Brinton
+AU  - Kirwan, C. Brock
+AU  - Eargle, David
+TI  - Using measures of risk perception to predict information security behavior: insights from electroencephalography (EEG)
+JO  - Journal of the Association for Information Systems
+VL  - 15
+IS  - 10
+SP  - 679
+EP  - 722
+PY  - 2014
+ER  -
+
+TY  - CONF
+AU  - Christin, Nicolas
+AU  - Egelman, Serge
+AU  - Vidas, Timothy
+AU  - Grossklags, Jens
+TI  - It's all about the Benjamins: an empirical study on incentivizing users to ignore security advice
+T2  - Financial Cryptography and Data Security (LNCS vol. 6900)
+PY  - 2011
+SP  - 16
+EP  - 30
+ER  -
+
+TY  - CONF
+AU  - Bravo-Lillo, Cristian
+AU  - Komanduri, Saranga
+AU  - Cranor, Lorrie Faith
+AU  - Reeder, Robert W.
+AU  - Sleeper, Manya
+AU  - Downs, Julie
+AU  - Schechter, Stuart
+TI  - Your attention please: designing security-decision UIs to make genuine risks harder to ignore
+T2  - Proceedings of the 9th Symposium on Usable Privacy and Security (SOUPS)
+PY  - 2013
+ER  -
+
+TY  - CONF
+AU  - Felt, Adrienne Porter
+AU  - Ainslie, Alex
+AU  - Reeder, Robert W.
+AU  - Consolvo, Sunny
+AU  - Thyagaraja, Somas
+AU  - Bettes, Alan
+AU  - Harris, Helen
+AU  - Grimes, Jeff
+TI  - Improving SSL warnings: comprehension and adherence
+T2  - Proceedings of the ACM CHI Conference on Human Factors in Computing Systems
+PY  - 2015
+SP  - 2893
+EP  - 2902
+ER  -
+
+TY  - CONF
+AU  - Egelman, Serge
+AU  - Schechter, Stuart
+TI  - The importance of being earnest [in security warnings]
+T2  - Financial Cryptography and Data Security (LNCS vol. 7859)
+PY  - 2013
+SP  - 52
+EP  - 59
+ER  -
+
+TY  - CONF
+AU  - Harbach, Marian
+AU  - Fahl, Sascha
+AU  - Yakovleva, Polina
+AU  - Smith, Matthew
+TI  - Sorry, I don't get it: an analysis of warning message texts
+T2  - Financial Cryptography and Data Security Workshops (USEC)
+PY  - 2013
+SP  - 94
+EP  - 111
+ER  -
+
+TY  - CONF
+AU  - Petelka, Justin
+AU  - Zou, Yixin
+AU  - Schaub, Florian
+TI  - Put your warning where your link is: improving and evaluating email phishing warnings
+T2  - Proceedings of the ACM CHI Conference on Human Factors in Computing Systems
+PY  - 2019
+SP  - 518
+ER  -
+
+TY  - CONF
+AU  - Reeder, Robert W.
+AU  - Felt, Adrienne Porter
+AU  - Consolvo, Sunny
+AU  - Malkin, Nathan
+AU  - Thompson, Christopher
+AU  - Egelman, Serge
+TI  - An experience sampling study of user reactions to browser warnings in the field
+T2  - Proceedings of the ACM CHI Conference on Human Factors in Computing Systems
+PY  - 2018
+SP  - 512
+ER  -
+
+TY  - CHAP
+AU  - Wogalter, Michael S.
+TI  - Communication-human information processing (C-HIP) model
+T2  - Handbook of Warnings
+ED  - Wogalter, Michael S.
+PB  - Lawrence Erlbaum Associates
+CY  - Mahwah, NJ, USA
+SP  - 51
+EP  - 61
+PY  - 2006
+ER  -
+
+TY  - CONF
+AU  - Schaub, Florian
+AU  - Balebako, Rebecca
+AU  - Durity, Adam L.
+AU  - Cranor, Lorrie Faith
+TI  - A design space for effective privacy notices
+T2  - Proceedings of the 11th Symposium on Usable Privacy and Security (SOUPS)
+PY  - 2015
+SP  - 1
+EP  - 17
+ER  -
+
+TY  - CONF
+AU  - Sunshine, Joshua
+AU  - Egelman, Serge
+AU  - Almuhimedi, Hazim
+AU  - Atri, Neha
+AU  - Cranor, Lorrie Faith
+TI  - Crying wolf: an empirical study of SSL warning effectiveness
+T2  - Proceedings of the 18th USENIX Security Symposium
+PY  - 2009
+SP  - 399
+EP  - 416
+ER  -
+
+TY  - CONF
+AU  - Egelman, Serge
+AU  - Cranor, Lorrie Faith
+AU  - Hong, Jason
+TI  - You've been warned: an empirical study of the effectiveness of web browser phishing warnings
+T2  - Proceedings of the ACM CHI Conference on Human Factors in Computing Systems
+PY  - 2008
+SP  - 1065
+EP  - 1074
+ER  -
+
+TY  - CONF
+AU  - Wash, Rick
+TI  - Folk models of home computer security
+T2  - Proceedings of the 6th Symposium on Usable Privacy and Security (SOUPS)
+PY  - 2010
+ER  -
+
+TY  - CONF
+AU  - Wash, Rick
+AU  - Rader, Emilee
+TI  - Too much knowledge? Security beliefs and protective behaviors among United States internet users
+T2  - Proceedings of the 11th Symposium on Usable Privacy and Security (SOUPS)
+PY  - 2015
+SP  - 309
+EP  - 325
+ER  -
+
+TY  - JOUR
+AU  - Modic, David
+AU  - Anderson, Stephen
+TI  - Reading this may harm your computer: the psychology of malware warnings
+JO  - Computers in Human Behavior
+VL  - 41
+SP  - 71
+EP  - 79
+PY  - 2014
+ER  -
+
+TY  - JOUR
+AU  - Kumaraguru, Ponnurangam
+AU  - Sheng, Steve
+AU  - Acquisti, Alessandro
+AU  - Cranor, Lorrie Faith
+AU  - Hong, Jason
+TI  - Teaching Johnny not to fall for phish
+JO  - ACM Transactions on Internet Technology
+VL  - 10
+IS  - 2
+SP  - 7
+PY  - 2010
+ER  -
+
+TY  - CONF
+AU  - Sheng, Steve
+AU  - Holbrook, Mandy
+AU  - Kumaraguru, Ponnurangam
+AU  - Cranor, Lorrie Faith
+AU  - Downs, Julie
+TI  - Who falls for phish? A demographic analysis of phishing susceptibility and effectiveness of interventions
+T2  - Proceedings of the ACM CHI Conference on Human Factors in Computing Systems
+PY  - 2010
+SP  - 373
+EP  - 382
+ER  -
+
+TY  - CONF
+AU  - Redmiles, Elissa M.
+AU  - Kross, Sean
+AU  - Mazurek, Michelle L.
+TI  - How I learned to be secure: a census-representative survey of security advice sources and behavior
+T2  - Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)
+PY  - 2016
+SP  - 666
+EP  - 677
+ER  -
+
+TY  - CONF
+AU  - Redmiles, Elissa M.
+AU  - Warford, Noel
+AU  - Jayanti, Amritha
+AU  - Koneru, Aravind
+AU  - Kross, Sean
+AU  - Morales, Miraida
+AU  - Stevens, Rock
+AU  - Mazurek, Michelle L.
+TI  - A comprehensive quality evaluation of security and privacy advice on the internet
+T2  - Proceedings of the 29th USENIX Security Symposium
+PY  - 2020
+SP  - 89
+EP  - 108
+ER  -
+
+TY  - CONF
+AU  - Krol, Kat
+AU  - Moroz, Matthew
+AU  - Sasse, M. Angela
+TI  - Don't work. Can't work? Why it's time to rethink security warnings
+T2  - Proceedings of the 7th International Conference on Risks and Security of Internet and Systems (CRiSIS)
+PY  - 2012
+SP  - 1
+EP  - 8
+ER  -
+
+TY  - JOUR
+AU  - Arachchilage, Nalin Asanka Gamagedara
+AU  - Love, Steven
+TI  - Security awareness of computer users: a phishing threat avoidance perspective
+JO  - Computers in Human Behavior
+VL  - 38
+SP  - 304
+EP  - 312
+PY  - 2014
+ER  -
+
+TY  - CONF
+AU  - Vance, Anthony
+AU  - Eargle, David
+AU  - Ouimet, Kirk
+AU  - Straub, Detmar
+TI  - Enhancing password security through interactive fear appeals: a web-based field experiment
+T2  - Proceedings of the 46th Hawaii International Conference on System Sciences (HICSS)
+PY  - 2013
+SP  - 2988
+EP  - 2997
+ER  -
+
+TY  - JOUR
+AU  - Volkamer, Melanie
+AU  - Renaud, Karen
+AU  - Reinheimer, Benjamin
+AU  - Kunz, Alexandra
+TI  - User experiences of TORPEDO: tooltip-powered phishing email detection
+JO  - Computers & Security
+VL  - 71
+SP  - 100
+EP  - 113
+PY  - 2017
+ER  -
